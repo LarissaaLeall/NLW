@@ -99,12 +99,7 @@ section ul li:hover {
     transform: scale(1.1)
 }
 
-.series-list img {
-    width: 90px;
-    border-radius: 8px;
-}
-
-.filmes-list img {
+.jogos-list img {
     width: 90px;
     border-radius: 8px;
 }
